@@ -157,6 +157,20 @@ The RappiPlus capstone demonstrates how Python, SQL, statistical testing, and Po
 Beyond dashboard development, the project emphasises data integrity, transparent financial reporting, appropriate statistical interpretation, and the translation of analytical findings into actionable business priorities.
 
 
+## Power BI Dashboard Gallery
+
+### 01 | Commercial Performance Overview
+
+![RappiPlus Power BI Overview Dashboard](dashboard/rappiplus_overview.png)
+
+### 02 | Product Performance & Profitability
+
+![RappiPlus Power BI Details Dashboard](dashboard/rappiplus_details.png)
+
+### 03 | Customer Journey & Strategic Insights
+
+![RappiPlus Power BI Insights Dashboard](dashboard/rappiplus_insights.png)
+
 ## Project Deliverables
 
 ### Python & SQL Analysis
